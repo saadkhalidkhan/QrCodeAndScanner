@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QRAndScannerDemo</string>
+    <string name="title_activity_ticket">Book Ticket</string>
+    <string name="lbl_duration">DURATION</string>
+    <string name="lbl_genre">GENRE</string>
+    <string name="lbl_rating">RATING</string>
+    <string name="lbl_price">PRICE</string>
+    <string name="btn_buy_now">BUY NOW</string>
+    <string name="btn_coming_soon">COMING SOON</string>
+    <string name="msg_no_ticket_found">No ticket found. Try scanning the QR Codes from http://api.androidhive.info/qrcodes/</string>
+</resources>
